@@ -1,2 +1,2 @@
-# lab-ui-showcase
-Collection of advanced UI/UX concepts and fake interfaces. Part of my portfolio.
+# UI/UX Showcase
+Advanced fake interfaces and concept designs built with React and Framer Motion.
